@@ -194,4 +194,4 @@ const config = {
   },
 };
 
-module.exports = config;
+module.exports = config;2
